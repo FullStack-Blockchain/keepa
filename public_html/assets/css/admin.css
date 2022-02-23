@@ -1,0 +1,71 @@
+.profit_loss_cart {
+  color: #569EFD;
+  font-weight: bold;
+  text-align: center;
+}
+
+.profit_loss_new {
+  color: #6DCD3F;
+  font-weight: bold;
+  text-align: center;
+}
+
+.profit_loss_used {
+  color: #EF6433;
+  font-weight: bold;
+  text-align: center;
+}
+
+.profit_loss_amazon {
+  color: #528C4C;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.nav-tabs .nav-link.active {
+  color: #FFF;
+  background-color: #2c7be5;
+}
+
+.graph_title {
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 5px;
+  font-weight: bolder;
+  font-size: 14px;
+}
+
+.tbl_left {
+  text-align: left;
+}
+
+.lbl_click {
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-bottom: 7px;
+  background-color: #edf2f9;
+  text-align: center;
+
+
+}
+
+.amazon_click {
+  margin-left: 10px;
+  margin-top: 20px;
+  padding-bottom: 10px;
+
+}
+
+.rank_item_img_box {
+  text-align: center;
+}
+
+.rank_item_img {
+  max-height: 240px;
+}
+
+.contact_bold {
+  color: #FF0000;
+  font-weight: bold;
+}
